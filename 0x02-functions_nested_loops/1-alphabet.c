@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
+ * main - Prints the print_alphabet in lowercase, followed by a new lin
  *
- * main - Prints the alphabet in lowercase, followed by a new lin
- * 
  * Return: Always 0 (success)
  *
  */
