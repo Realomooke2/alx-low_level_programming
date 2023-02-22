@@ -1,5 +1,5 @@
-#ifndef main_h
-#define main_h
+#ifndef OMOWALE
+#define OMOWALE
 
 int _putchar(char);
 void print_alphabet(void);
