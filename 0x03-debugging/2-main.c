@@ -1,5 +1,6 @@
-#include <stdio.h>
 #include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
 /**
  * main - Print the largestof 3 integers
  *
@@ -7,16 +8,23 @@
  */
 int main(void)
 {
-	int a, b, c
-	int largest;
+	int num1, num2, num3, largest;
 
-	a = 972;
-	b = -98;
-	c = 0;
+	printf("Enter three integers: ");
+	scanf("%d %d %d", &num1, &num2, &num3);
 
-	largest = largest_number(a, b, c);
+	largest = num1;
 
-	printf("%d is the largest number\n", largest);
+	if (num2 > largest)
+	{
+		largest = num2;
+	}
+
+	if (num3 > largest)
+	{
+		largest = num3;
+	}
+	printf("The largest number is %d", largest);
 
 	return (0);
 }

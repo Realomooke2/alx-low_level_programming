@@ -1,30 +1,31 @@
-#include "main.h"
-
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /**
-* main - tests function that prints if integer is positive or negative
-* Return: 0
-*/
-void positive_or_negative(int i) 
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
-	if (i > 0)
+	int n;
+
+	if (n >= 10)
 	{
-		printf("%d is positive\n", i);
+		printf("Last digit of %d is %d and is greater than 5\n",
+			n, n++);
 	}
-	else if
+	else if (n < 10)
 	{
-		printf("%d is negative\n", i);
-	}
-	if (i < 0)
-	{
-		printf("%d is %s\n", i, "negative");
-	}
-	else if (i > 0)
-	{
-		printf("%d is %s\n", i, "positive");
+		printf("Last digit of %d is %d and is less than 6 and not 0\n",
+			n);
 	}
 	else
-		printf("%d is zero\n", i);
 	{
-		printf("%d is %s\n", i, "zero");
+		printf("Last digit of %d is %d and is 0\n",
+			n);
 	}
+
+	return (0);
+
 }
