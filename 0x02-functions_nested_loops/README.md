@@ -1,3 +1,17 @@
+# C - Functions, nested loops
+
+
+## Resources
+
+## Read or watch:
+
+- [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
+- [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
+- [Learning to Program in C (Part 06)](https://www.youtube.com/watch?v=qMlnFwYdqIw)
+- [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
+- [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+
+
 ## 0. _putchar ##
 	
 - Item 1 Write a program that prints _putchar, followed by a new line.
