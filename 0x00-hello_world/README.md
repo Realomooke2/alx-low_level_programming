@@ -6,7 +6,7 @@
 ## Read or watch:
 
 - [C programming](6641978f66e251e44cbaa724f75e013f2d7f772b2d14fddfad0b93cf6e6b4f0a)
-- [Everything you need to know to start with C.pdf](You do not have to learn everything in there yet, but make sure you read it entirely first)(https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230226T085130Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=073d055cce9dce0e5f7bf7ee026fdaad677396da4f7dd78837af460e1c572cd9)
+- [Everything you need to know to start with C.pdf(You do not have to learn everything in there yet, but make sure you read it entirely first)](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230226T085130Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=073d055cce9dce0e5f7bf7ee026fdaad677396da4f7dd78837af460e1c572cd9)
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 - [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 - [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
