@@ -8,3 +8,8 @@
 + 0x04. C - More functions, more nested loops
 + 0x05. C - Pointers, arrays and strings
 + 0x06. C - More pointers, arrays and strings
+- 0x07-pointers_arrays_strings
+- 0x08-recursion
+- 0x09-static_libraries
+- 0x0A_C_argc_argv
+- 0x0B-malloc_free
