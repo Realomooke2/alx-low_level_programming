@@ -5,7 +5,7 @@
 /**
  * main - check the code for ALX School students.
  *
- * Return: Always 0.
+ * Return: Always 0 (success).
  */
 int main(int ac, char *av[])
 {
