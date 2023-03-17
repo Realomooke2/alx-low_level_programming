@@ -1,9 +1,6 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
-#include <stdio.h>
+#ifndef MAIN_H
+#define MAIN_H
 
-int main(int argc, char *argv[]);
-int _putchar(char *s);
-int _atoi(char c);
-
+int _putchar(char c);
+int _atoi(char *s);
 #endif
