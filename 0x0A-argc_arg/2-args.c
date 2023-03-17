@@ -1,14 +1,15 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
-  * main - Prints all the args content
-  * @argc: argument count
-  * @argv: argument vector
-  *
-  * Return: Always zero
-  */
+ * main - prints all arguments it receives
+ * @argc: number of arguments
+ * @argv: array of argument
+ *
+ * Return: Always 0 (Success)
+ */
 int main(int argc, char *argv[])
+
 {
 	int i;
 
@@ -16,6 +17,5 @@ int main(int argc, char *argv[])
 	{
 		printf("%s\n", argv[i]);
 	}
-
 	return (0);
 }
