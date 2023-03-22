@@ -1,7 +1,17 @@
-# 0x0F. C - Function pointer                                                                        ## Resource                                                                                         - [Function Pointer in C](https://www.geeksforgeeks.org/function-pointer-in-c/)                      - Pointers to functions](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.ht)ml)                                                - [Function Pointers in C / C++](https://www.youtube.com/watch?v=ynYtgGUNelE)                       - [why pointers to functiions?](https://m.youtube.com/watch?v=sxTFSDAZM8s&feature=youtu.be)         - [Everything you need to know about pointers in C
+# 0x0F. C - Function pointer
+
+## Resource
+- [Function Pointer in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
+-[ Pointers to functions](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.ht)ml)
+- [Function Pointers in C / C++](https://www.youtube.com/watch?v=ynYtgGUNelE)
+- [why pointers to functiions?](https://m.youtube.com/watch?v=sxTFSDAZM8s&feature=youtu.be)
+- [Everything you need to know about pointers in C
 ](https://boredzo.org/pointers/)
-                                                                                                    # Tasks
- ## 0. What's my nam                               Write a function that prints a name.
+
+# Tasks
+
+## 0. What's my nam
+Write a function that prints a name.
 - Prototype: `void print_name(char *name, void (*f)(char *));
                                                                                                     ## 1. If you spend too much time thinking about a thing, you'll never get it Done
 
