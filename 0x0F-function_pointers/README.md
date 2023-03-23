@@ -128,5 +128,4 @@ see example
 - If the number of bytes is negative, print `Error`, followed by a new line, and exit with the status `2`
 - You do not have to compile with any flags
 
-Note: if you want to translate your opcodes to assembly instructions, you can use, for instance `udcli.`
-
+Note: if you want to translate your opcodes to assembly instructions, you can use, for instance `udcli.
