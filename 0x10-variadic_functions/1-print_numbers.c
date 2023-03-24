@@ -1,6 +1,7 @@
+#include "variadic_functions.h"
 #include <stdarg.h>
 #include <stdio.h>
-#include "variadic_functions.h"
+
 /**
  * print_numbers - Entry Point
  * @separator: comma space
@@ -10,6 +11,7 @@
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
 	va_list valist;
+
 	unsigned int i;
 
 	if (separator == NULL)
