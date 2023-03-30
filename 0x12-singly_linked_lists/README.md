@@ -3,9 +3,15 @@
 In this project, I practiced building and using singly linked lists
 in C while learning when and why to use linked lists versus arrays.
 
+- [Data Structures](https://intranet.alxswe.com/concepts/120)
+
+Resources
+Read or watch:
+
+- [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&feature=youtu.be&t=2m10s)
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX SE
 
 ## Header File :file_folder:
 
