@@ -1,9 +1,5 @@
-/*
- * File: 1-list_len.c
- * 
- */
-
 #include "lists.h"
+#include <stdlib.h>
 
 /**
  * list_len - Finds the number of elements in
