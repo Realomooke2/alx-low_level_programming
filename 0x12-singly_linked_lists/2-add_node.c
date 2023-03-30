@@ -1,8 +1,3 @@
-/*
- * File: 2-add_node.c
- * 
- */
-
 #include "lists.h"
 #include <string.h>
 
@@ -15,6 +10,7 @@
  * Return: If the function fails - NULL.
  *         Otherwise - the address of the new element.
  */
+
 list_t *add_node(list_t **head, const char *str)
 {
 	char *dup;
