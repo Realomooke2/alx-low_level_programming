@@ -1,17 +1,20 @@
 #include "lists.h"
 
 /**
- * listint_len - Return the number of elements
- * @h: data type pointer of struct
- * Return: elements of the str i
+ * listint_len - returns the number of elements in a linked lists
+ * @h: linked list of type listint_t to traverse
+ *
+ * Return: number of nodes
  */
-
 size_t listint_len(const listint_t *h)
-{
-	unsigned int i = 0;
-	const listint_t	 *new_node = h;
 
-	if (; new_node; new_node = new_node->next)
-		i++;
-		return (i);
+{
+	size_t num = 0;
+
+	while (h)
+	{
+	num++;
+	h = h->next;
+	}
+	return (num);
 }
